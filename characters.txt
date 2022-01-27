@@ -1,0 +1,46 @@
+Mage
+	Vivi Ornitier
+	120
+	0.12
+	18
+	60
+Mage
+	Gandalf
+	150
+	0.12
+	16
+	45
+Guerrier
+	Garosh Hurlenfer
+	230
+	0.07
+	17
+	12
+Archer
+	Sylvanas Coursevent
+	170
+	0.20
+	15
+Mage
+	Jaina Portvaillant
+	125
+	0.135
+	17
+	75
+Guerrier
+	Xéna
+	210
+	0.1
+	16
+	8
+Archer
+	Oliver Queen
+	175
+	0.18
+	16
+Mage
+	Hermione Granger
+	100
+	0.15
+	18
+	90
